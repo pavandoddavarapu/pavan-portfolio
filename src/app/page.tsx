@@ -1,6 +1,6 @@
-import React from "react";
 
 "use client";
+import React from "react";
 // import Skills from "D:\CHROME DOWNLOADS\pavan-portfolio\src\app\components\sections\Skills.tsx";
 
 import { Suspense, lazy, useEffect, useState } from "react";
