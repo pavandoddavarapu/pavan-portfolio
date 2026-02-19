@@ -1,3 +1,5 @@
+import React from "react";
+
 "use client";
 // import Skills from "D:\CHROME DOWNLOADS\pavan-portfolio\src\app\components\sections\Skills.tsx";
 
